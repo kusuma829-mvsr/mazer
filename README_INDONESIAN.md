@@ -15,7 +15,6 @@
 
 <p align="center">
 	<a href="http://zuramai.github.io/mazer/demo">Halaman Demo</a>&nbsp;&nbsp;&nbsp;
-	<a href="http://zuramai.github.io/mazer/docs">Halaman Dokumentasi</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Pemasangan
